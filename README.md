@@ -45,5 +45,6 @@ Strengthening IT support and troubleshooting skills
 Preparing for junior developer, IT support, or cloud roles
 
 Connect
-LinkedIn: www.linkedin.com/in/yashkumar-pandya-0160ba298  
+LinkedIn: www.linkedin.com/in/yashkumar-pandya
+
 GitHub: github.com/yashkumar-pandya-dev
